@@ -4,7 +4,7 @@ This repository holds notebooks and related files associated with data analysis 
 
 ## Setting up Google CoLaboratory
 
-At paleoCAMP we use Google Colaboratory (or "Colab") for our tutorials and analytical exercises.  Colab is a free, cloud-based platform from Google that allows you to write and run Python code directly in your web browser.  This means that no installation or setup is required, which minimizes challenges associated with these across different hardware and operating system. Colab is built on the [Jupyter Notebook](https://jupyter.org/) format, which allows code, explanatory text, images, and results to be combined in a single and easily shareable document. Working in Colab means that every one of us at paleoCAMP is using an identical computing environment.  We will share Notebooks and the associated data with you via Google Drive.
+At paleoCAMP we use Google Colaboratory (or "Colab") for our tutorials and analytical exercises.  Colab is a free, cloud-based platform from Google that allows you to write and run Python code directly in your web browser (and, with a little coaxing, R code too).  This means that no installation or setup is required, which minimizes challenges associated with these across different hardware and operating system. Colab is built on the [Jupyter Notebook](https://jupyter.org/) format, which allows code, explanatory text, images, and results to be combined in a single and easily shareable document. Working in Colab means that every one of us at paleoCAMP is using an identical computing environment.  We will share Notebooks and the associated data with you via Google Drive.
 
 Here's how to get started using Colab:
 
