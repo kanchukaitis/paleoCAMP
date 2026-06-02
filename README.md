@@ -1,6 +1,6 @@
 # Python for paleoCAMP
 
-This repository holds notebooks and related files associated with data analysis tutorials for the Paleoclimate Training in Climate Archives, Models, and Proxies summer school [paleoCAMP](https://paleoclimate.camp/).  
+This repository holds notebooks and related files associated with data analysis tutorials for the Paleoclimate Training in Climate Archives, Models, and Proxies summer school ([paleoCAMP](https://paleoclimate.camp/)).  
 
 ## Setting up Google CoLaboratory
 
