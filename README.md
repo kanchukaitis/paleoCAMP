@@ -27,7 +27,7 @@ This repository has two Jupyter notebooks that provide an overview of how Python
 - [Introduction to Python for Paleoclimate Science — Part 1: Python, NumPy, and Pandas](https://github.com/kanchukaitis/paleoCAMP/blob/main/python_for_climate_part1.ipynb)
 - [Introduction to Python for Paleoclimate Science — Part 2: Xarray, Matplotlib, and Cartopy](https://github.com/kanchukaitis/paleoCAMP/blob/main/python_for_climate_part2.ipynb)
 
-The links above take you to the files in this repository.  Each notebook has a button at the very top that will open it in Google Colab.  Alternatively, the following links open the notebooks directly in Colab:
+The links above take you to the files in this repositorye in Preview mode.  You will not be able to run the code here in Github directly, but each notebook has a button at the very top that will open it in directly in your Google Colab.  You can also use the following links to open the notebooks directly in Colab:
 
 - [Open 'Introduction to Python for Paleoclimate Science — Part 1: Python, NumPy, and Pandas' in Google CoLab](https://colab.research.google.com/github/kanchukaitis/paleoCAMP/blob/main/python_for_climate_part1.ipynb)
 - [Open 'Introduction to Python for Paleoclimate Science — Part 2: Xarray, Matplotlib, and Cartopy' in Google CoLab](https://colab.research.google.com/github/kanchukaitis/paleoCAMP/blob/main/python_for_climate_part2.ipynb)
