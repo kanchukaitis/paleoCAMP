@@ -8,7 +8,7 @@ At paleoCAMP we use Google Colaboratory (or "Colab") for our tutorials and analy
 
 Here's how to get started using Colab:
 
-1. Go to [colab.research.google.com](colab.research.google.com) while signed into your university Google account.
+1. Go to [colab.research.google.com](colab.research.google.com) while signed into your university (or personal) Google account.
 2. If Colab loads normally, you're all set!  It is that simple. 
 3. If access is blocked or restricted, try one of the following:
     1. Contact your university's IT department and ask them to enable Google Colaboratory for your account or domain.
