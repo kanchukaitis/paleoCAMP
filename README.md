@@ -19,6 +19,6 @@ The links above take you to the files in this repository.  Each notebook has a b
 1. Go to [colab.research.google.com](colab.research.google.com) while signed into your university Google account.
 2. If Colab loads normally, you're all set.
 3. If access is blocked or restricted, try one of the following:
- 1. Contact your university's IT department and ask them to enable Google Colaboratory for your account or domain.
- 2. Alternatively, sign in with a personal Gmail account and use Colab from there.
+    Contact your university's IT department and ask them to enable Google Colaboratory for your account or domain.
+    Alternatively, sign in with a personal Gmail account and use Colab from there.
 
