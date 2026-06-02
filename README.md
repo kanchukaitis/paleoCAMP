@@ -2,6 +2,8 @@
 
 This repository holds notebooks and related files associated with data analysis tutorials for the Paleoclimate Training in Climate Archives, Models, and Proxies summer school [paleoCAMP](https://paleoclimate.camp/).  
 
+At paleoCAMP we use Google Colaboratory (or "Colab") for our tutorials and analytical exercises.  Colab is a free, cloud-based platform from Google that allows you to write and run Python code directly in your web browser.  This means that no installation or setup is required, which minimizes challenges associated with these across different hardware and operating system. Colab is built on the [Jupyter Notebook](https://jupyter.org/) format, which allows code, explanatory text, images, and results to be combined in a single and easily shareable document. Working in Colab means that every one of us at paleoCAMP is using an identical computing environment.  We will share Notebooks and the associated data with you via Google Drive.
+
 ## Introduction to Python for paleoCAMP
 
 This repository has two Jupyter notebooks that provide an overview of how Python works that can provide a good introduction before you arrive in Mammoth Lakes.  The two notebooks are:
