@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="paleoCAMP logo" width="400">
+  <img src="logo.png" alt="paleoCAMP logo" width="300">
 </p>
 
 # Python for paleoCAMP
