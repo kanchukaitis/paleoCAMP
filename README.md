@@ -13,3 +13,12 @@ The links above take you to the files in this repository.  Each notebook has a b
 
 - [Open 'Introduction to Python for Paleoclimate Science — Part 1: Python, NumPy, and Pandas' in Google CoLab](https://colab.research.google.com/github/kanchukaitis/paleoCAMP/blob/main/python_for_climate_part1.ipynb)
 - [Open 'Introduction to Python for Paleoclimate Science — Part 2: Xarray, Matplotlib, and Cartopy' in Google CoLab](https://colab.research.google.com/github/kanchukaitis/paleoCAMP/blob/main/python_for_climate_part2.ipynb)
+
+## Setting up Google CoLaboratory
+
+1. Go to [colab.research.google.com](colab.research.google.com) while signed into your university Google account.
+2. If Colab loads normally, you're all set.
+3. If access is blocked or restricted, try one of the following:
+ 1. Contact your university's IT department and ask them to enable Google Colaboratory for your account or domain.
+ 2. Alternatively, sign in with a personal Gmail account and use Colab from there.
+
